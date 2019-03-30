@@ -1,2 +1,2 @@
-# MIPS
-Programas simples na linguagem MIPS 
+# ASSEMBLY
+Programas simples na linguagem ASSEMBLY
